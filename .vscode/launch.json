@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PuntomarcialApplication<puntomarcial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.academia.puntomarcial.PuntomarcialApplication",
+            "projectName": "puntomarcial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
